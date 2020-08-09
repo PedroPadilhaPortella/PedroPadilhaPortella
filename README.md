@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/PedroPadilhaPortella/PedroPadilhaPortella/blob/master/call-of-duty-modern-warfare-2-196-1920x1200.jpg">
+<img width="auto" src="https://github.com/PedroPadilhaPortella/PedroPadilhaPortella/blob/master/codeWallpaper.png">
 
 # Pedro Portella
 
