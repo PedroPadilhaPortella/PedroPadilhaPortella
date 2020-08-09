@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://github.com/PedroPadilhaPortella/PedroPadilhaPortella/blob/master/call-of-duty-modern-warfare-2-196-1920x1200.jpg">
 
 # Pedro Portella
 
