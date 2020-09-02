@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">Pedro Padilha Portella</h1> 
-<img width="auto" src="https://github.com/PedroPadilhaPortella/PedroPadilhaPortella/blob/master/codeWallpaper.png">
+<img width="auto" src="https://github.com/PedroPadilhaPortella/PedroPadilhaPortella/blob/master/index.jpg">
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação. :computer::hammer:
