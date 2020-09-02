@@ -16,7 +16,7 @@
 	"games",
 	"tecnologies",
 	"learn new languages"
-  ]
+  ],
   "formation" : {
    	"faculdade" : "Faculdade de Tecnologia do Estado de São Paulo - Zona Sul",
   	"course" : "Analysis and development of systems"
