@@ -10,3 +10,25 @@ Sou apaixonado por resolver problemas utilizando a programação. :computer::ham
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-PedroPortella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-padilha-portella-02a67318a/)](https://www.linkedin.com/in/pedro-padilha-portella-02a67318a/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-pedro.kadjin.sg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.kadjin.sg@gmail.com)](mailto:pedro.kadjin.sg@gmail.com)
+
+```json
+{
+  "name" : "Pedro Henrique Padilha Portella da Cruz",
+  "age" : "19",
+  "description" : "I'm passionate about solving problems using programming",
+  "formation" : {
+   "faculdade" : "Faculdade de Tecnologia do Estado de São Paulo - Zona Sul",
+  	"course" : "Analysis and development of systems"
+  },
+  "linkedin" : "https://www.linkedin.com/in/pedro-padilha-portella-02a67318a/",
+  "habilities" : [
+  	"javascritp",
+	  "php",
+	  "bootstrap 4",
+	  "css 3",
+   "html 5",
+   "mysql"
+  ]
+}
+
+```
