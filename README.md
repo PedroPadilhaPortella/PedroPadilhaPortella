@@ -23,14 +23,14 @@
   },
   "linkedin" : "https://www.linkedin.com/in/pedro-padilha-portella-02a67318a/",
   "habilities" : [
-  	{"javascritp",  7},
-	{"php",         8},
-	{"bootstrap 4", 6},
-	{"css 3",       6},
-	{"html 5",      8},
-        {"mysql",       4},
-	{"c#",          4},
-	{"pyhton",      4}
+  	"javascritp",
+	"php",
+	"bootstrap 4",
+	"css 3",
+	"html 5",
+        "mysql",
+	"c#",
+	"pyhton",
   ]
 }
 
