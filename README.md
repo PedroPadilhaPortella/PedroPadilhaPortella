@@ -30,7 +30,7 @@
 	"html 5",
         "mysql",
 	"c#",
-	"pyhton",
+	"python",
   ]
 }
 
