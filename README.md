@@ -18,7 +18,7 @@
 	"learn new languages"
   ],
   "formation" : {
-   	"faculdade" : "Faculdade de Tecnologia do Estado de São Paulo - Zona Sul",
+   	"university" : "Faculdade de Tecnologia do Estado de São Paulo - Zona Sul",
   	"course" : "Analysis and development of systems"
   },
   "linkedin" : "https://www.linkedin.com/in/pedro-padilha-portella-02a67318a/",
