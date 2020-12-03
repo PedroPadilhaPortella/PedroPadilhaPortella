@@ -23,7 +23,7 @@
   },
   "linkedin" : "https://www.linkedin.com/in/pedro-padilha-portella-02a67318a/",
   "habilities" : [
-  	"javascritp",
+  	"javascript",
 	"php",
 	"bootstrap 4",
 	"css 3",
