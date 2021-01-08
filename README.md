@@ -39,6 +39,4 @@
 | 
 [![Gmail Badge](https://img.shields.io/badge/-pedro.kadjin.sg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.kadjin.sg@gmail.com)](mailto:pedro.kadjin.sg@gmail.com)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eeikee&show_icons=true&theme=tokyonight)<br /><br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeikee&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/eeikee/github-readme-stats)
 
