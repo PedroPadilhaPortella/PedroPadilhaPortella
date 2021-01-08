@@ -27,13 +27,15 @@
   },
   "linkedin" : "https://www.linkedin.com/in/pedro-padilha-portella-02a67318a/",
   "habilities" : [
-  	"c#" : [
+  	[
+		"csharp",
 	   	"asp .net core",
 	   	".net mvc",
 		".net api",
 		"entity framework"
 	],
-  	"javascript" : [
+  	[
+		"javascript",
 		"angular",
 		"nodejs"
 	],
@@ -42,8 +44,11 @@
 	"bootstrap",
 	"css 3",
 	"html 5",
-        "mysql",
-	"postgresql"
+	[
+	        "mysql",
+		"postgresql",
+		"sqlite"
+	]
   ]
 }
 
