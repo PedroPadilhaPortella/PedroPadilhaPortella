@@ -1,7 +1,7 @@
 <h1 style="text-align: center;">Pedro Padilha Portella</h1> 
 <img width="auto" src="https://github.com/PedroPadilhaPortella/PedroPadilhaPortella/blob/master/index.jpg">
 
- <br/> :purple_heart: &nbsp; Estudante de Análise e Desenvolvimento de Sistemas na FATEC, apaixonado por Tecnologias como Javascript e PHP. :clubs:
+ <br/> :purple_heart: &nbsp; Estudante de Análise e Desenvolvimento de Sistemas na FATEC, apaixonado por Tecnologias. :clubs:
   ### Estagiário na GFT Brasil :gem::trophy::gem:
   
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-PedroPortella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-padilha-portella-02a67318a/)](https://www.linkedin.com/in/pedro-padilha-portella-02a67318a/) 
