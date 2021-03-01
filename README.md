@@ -54,7 +54,7 @@
 ```
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pedropadilhaportella&show_icons=true&theme=tokyonight)<br /><br />
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pedropadilhaportella&show_icons=true&theme=tokyonight)<br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedropadilhaportella&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/eeikee/github-readme-stats)
 
 
