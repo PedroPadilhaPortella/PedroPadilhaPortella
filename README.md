@@ -26,7 +26,7 @@
   	"course" : "Analysis and Development of Systems"
   },
   "experience": {
-  	"trainne": "GFT Brazil (2020 - 2021),
+  	"trainne": "GFT Brazil (2020 - 2021)",
 	"junior angular system analyst": "GFT Brasil (2021)"
   },
   "skills" : [
