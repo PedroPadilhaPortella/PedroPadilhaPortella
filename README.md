@@ -2,7 +2,7 @@
 <img width="auto" src="https://github.com/PedroPadilhaPortella/PedroPadilhaPortella/blob/master/index.jpg">
 
  <br/> :purple_heart: &nbsp; Estudante de Análise e Desenvolvimento de Sistemas na FATEC, apaixonado por Tecnologias. :clubs:
-  ### Estagiário na GFT Brasil :gem::trophy::gem:
+  ### Analista de Sistemas Júnior na GFT Brasil :gem::trophy::gem:
   
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-PedroPortella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-padilha-portella-02a67318a/)](https://www.linkedin.com/in/pedro-padilha-portella-02a67318a/) 
 | 
@@ -23,7 +23,11 @@
   ],
   "formation" : {
    	"university" : "Faculdade de Tecnologia do Estado de São Paulo - Zona Sul",
-  	"course" : "Analysis and development of systems"
+  	"course" : "Analysis and Development of Systems"
+  },
+  "experience": {
+  	"trainne": "GFT Brazil (2020 - 2021),
+	"junior angular system analyst": "GFT Brasil (2021)"
   },
   "skills" : [
   	[
@@ -38,7 +42,6 @@
 		"angular",
 		"nodejs"
 	],
-	"php",
 	"python"
 	"bootstrap",
 	"css 3",
