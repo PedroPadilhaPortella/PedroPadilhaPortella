@@ -13,17 +13,14 @@
   "name" : "Pedro Henrique Padilha Portella da Cruz",
   "age" : "19",
   "description" : "I'm passionate about solving problems using programming",
-  "hobbies" : [
-  	"calistenics",
-	"weight training",
-	"running",
-	"games",
-	"tecnologies",
-	"learn new languages"
-  ],
-  "formation" : {
-   	"university" : "Faculdade de Tecnologia do Estado de São Paulo - Zona Sul",
-  	"course" : "Analysis and Development of Systems"
+  "formations" : {
+  	"ADS" : {
+		"university" : "Faculdade de Tecnologia do Estado de São Paulo - Zona Sul",
+  		"course" : "Analysis and Development of Systems",
+		"from" : "2019-07",
+		"to" : "actually"
+	},
+   	
   },
   "experience": {
   	"trainne": "GFT Brazil (2020 - 2021)",
@@ -31,7 +28,7 @@
   },
   "skills" : [
   	[
-		"csharp",
+		"c#",
 	   	"asp .net core",
 	   	".net mvc",
 		".net api",
@@ -42,7 +39,11 @@
 		"angular",
 		"nodejs"
 	],
-	"python"
+	[
+		"java",
+		"spring boot api"
+	],
+	"python",
 	"bootstrap",
 	"css 3",
 	"html 5",
@@ -51,11 +52,18 @@
 		"postgresql",
 		"sqlite"
 	]
-  ]
+  ],
+   "hobbies" : [
+  	"calistenics",
+	"weight training",
+	"running",
+	"games",
+	"tecnologies",
+	"learn new languages"
+  ],
 }
 
 ```
-
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pedropadilhaportella&show_icons=true&theme=tokyonight)<br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedropadilhaportella&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/eeikee/github-readme-stats)
