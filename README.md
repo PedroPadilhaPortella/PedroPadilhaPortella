@@ -35,8 +35,7 @@
         ],
         "backend": [
             "nodejs",
-            "aspnet core",
-            "dotnet api and mvc",
+            "aspnet core api and mvc",
             "entity framework",
             "spring boot api"
         ],
