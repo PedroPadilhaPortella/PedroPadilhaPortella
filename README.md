@@ -11,16 +11,14 @@
 ```json
 {
     "name": "Pedro Henrique Padilha Portella da Cruz",
-    "age": "19",
+    "age": "20",
     "description": "I'm passionate about solving problems using programming",
     "formations": [
         {
-            "ADS": {
-                "university": "Faculdade de Tecnologia do Estado de São Paulo - Zona Sul",
-                "course": "Analysis and Development of Systems",
-                "from": "2019-07",
-                "to": "actually"
-            }
+            "university": "Faculdade de Tecnologia do Estado de São Paulo - Zona Sul",
+            "course": "Analysis and Development of Systems",
+            "from": "2019-07",
+            "to": "actually"
         }
     ],
     "experience": {
