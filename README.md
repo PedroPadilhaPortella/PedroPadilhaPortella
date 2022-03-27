@@ -11,7 +11,7 @@
 ```json
 {
     "name": "Pedro Henrique Padilha Portella da Cruz",
-    "age": "20",
+    "age": "21",
     "description": "I'm passionate about solving problems using programming",
     "formations": [
         {
@@ -23,7 +23,7 @@
     ],
     "experience": {
         "trainne": "GFT Brazil (2020 - 2021)",
-        "junior angular system analyst": "GFT Brasil (2021)"
+        "junior angular system analyst": "GFT Brasil (2021-2022)"
     },
     "skills": {
         "languages": [
@@ -33,9 +33,8 @@
         ],
         "backend": [
             "nodejs",
-            "aspnet core api and mvc",
-            "entity framework",
-            "spring boot api"
+            "dotnet core",
+            "spring framework"
         ],
         "frontend": [
             "angular",
@@ -49,6 +48,13 @@
             "postgresql",
             "sqlite",
             "mongodb"
+        ],
+        "others": [
+            "git",
+            "unit tests",
+            "jira",
+            "cloudbees",
+            "jenkins",
         ]
     },
     "hobbies": [
