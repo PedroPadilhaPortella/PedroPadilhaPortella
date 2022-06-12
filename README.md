@@ -15,44 +15,13 @@
             "university": "Faculdade de Tecnologia do Estado de São Paulo - Zona Sul",
             "course": "Analysis and Development of Systems",
             "from": "2019-07",
-            "to": "actually"
+            "to": "2022-07"
         }
     ],
     "experience": {
-        "trainne": "GFT Brazil (2020 - 2021)",
-        "junior angular system analyst": "GFT Brasil (2021-2022)"
-    },
-    "skills": {
-        "languages": [
-            "javascript",
-            "c#",
-            "java"
-        ],
-        "backend": [
-            "nodejs",
-            "dotnet core",
-            "spring framework"
-        ],
-        "frontend": [
-            "angular",
-            "css3",
-            "html5",
-            "ngrx",
-            "bootstrap"
-        ],
-        "databases": [
-            "mysql",
-            "postgresql",
-            "sqlite",
-            "mongodb"
-        ],
-        "others": [
-            "git",
-            "unit tests",
-            "jira",
-            "cloudbees",
-            "jenkins",
-        ]
+        "trainne": "GFT Brazil (2020-2021)",
+        "angular and dotnet developer": "GFT Brasil (2021-2022)",
+	"angular developer": "Santander F1rst Tecnologia (2022-actually)"
     }
 }
 
@@ -73,6 +42,7 @@
 ![Html](https://img.shields.io/badge/html-white.svg?style=for-the-badge&logo=html5&logoColor=red)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS](https://img.shields.io/badge/css-white.svg?style=for-the-badge&logo=css3&logoColor=blue)
+![Bootstrap](https://img.shields.io/badge/bootstrap-rebeccapurple.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-firebrick.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-dodgerblue.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -87,10 +57,16 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDb](https://img.shields.io/badge/mongodb-white.svg?style=for-the-badge&logo=mongodb&logoColor=forestgreen)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-white.svg?style=for-the-badge&logo=sqlite&logoColor=blue)
+![Cloudbees](https://img.shields.io/badge/cloudbees-lightslategrey.svg?style=for-the-badge&logo=cloudbees&logoColor=royalblue)
+![Jenkins](https://img.shields.io/badge/jest-whitesmoke.svg?style=for-the-badge&logo=jenkins&logoColor=black)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jasmine](https://img.shields.io/badge/jasmine-darkviolet.svg?style=for-the-badge&logo=jasmine&logoColor=white)
+![Jest](https://img.shields.io/badge/jest-lightgray.svg?style=for-the-badge&logo=jest&logoColor=darkred)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/visual%20studio-darkmagenta?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
