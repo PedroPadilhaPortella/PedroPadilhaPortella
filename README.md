@@ -27,8 +27,8 @@
 
 <img height="230em" src="https://github-readme-stats.vercel.app/api?username=pedropadilhaportella&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPadilhaPortella&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
-<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroPadilhaPortella&theme=tokyonight"/> 
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroPadilhaPortella&theme=tokyonight&hide_border=true"/>
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroPadilhaPortella&theme=tokyonight"/> 
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroPadilhaPortella&theme=tokyonight&hide_border=true"/>
 
  ###  ⚙️ Some Tool and Tech I use:     
 ![C#](https://img.shields.io/badge/csharp-purple.svg?style=for-the-badge&logo=csharp&logoColor=white)
