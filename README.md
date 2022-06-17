@@ -1,9 +1,5 @@
 <h1 align="center">Pedro Padilha Portella</h1> 
 <img width="auto" src="https://github.com/PedroPadilhaPortella/PedroPadilhaPortella/blob/master/index.jpg">
-  
-<br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-PedroPortella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-padilha-portella-02a67318a/)](https://www.linkedin.com/in/pedro-padilha-portella-02a67318a/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-pedro.kadjin.sg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.kadjin.sg@gmail.com)](mailto:pedro.kadjin.sg@gmail.com)
 
 ```json
 {
@@ -32,7 +28,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedropadilhaportella&show_icons=true&theme=tokyonight"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPadilhaPortella&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/> 
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroPadilhaPortella&theme=tokyonight"/> 
- <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroPadilhaPortella&theme=tokyonight&hide_border=true"/>
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroPadilhaPortella&theme=tokyonight&hide_border=true"/>
 
  ###  ⚙️ Some Tool and Tech I use:     
 ![C#](https://img.shields.io/badge/csharp-purple.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -72,3 +68,7 @@
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 	
 <img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="80"> 
+	
+<br/> &nbsp; Contact me: 
+[![Linkedin](https://img.shields.io/badge/-PedroPortella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-padilha-portella-02a67318a/)](https://www.linkedin.com/in/pedro-padilha-portella-02a67318a/) 
+[![Gmail](https://img.shields.io/badge/-pedro.kadjin.sg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.kadjin.sg@gmail.com)](mailto:pedro.kadjin.sg@gmail.com)
