@@ -17,7 +17,7 @@
     "experience": {
         "trainne": "GFT Brazil (2020-2021)",
         "angular and dotnet developer": "GFT Brasil (2021-2022)",
-	"angular developer": "Santander F1rst Tecnologia (2022-actually)"
+	"angular developer": "Santander F1rst Tecnologia (2022-present)"
     }
 }
 
