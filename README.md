@@ -25,7 +25,7 @@
 
 <div align="center">
 
- ###  ⚙️ Some Tool and Tech I use:     
+ ### Some Tool and Tech I use:     
 ![C#](https://img.shields.io/badge/csharp-purple.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Dotnet](https://img.shields.io/badge/dotnet-indigo.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-darkslateblue.svg?style=for-the-badge&logo=dart&logoColor=white)
