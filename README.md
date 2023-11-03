@@ -4,7 +4,7 @@
 ```json
 {
     "name": "Pedro Henrique Padilha Portella da Cruz",
-    "age": "21",
+    "age": "22",
     "description": "I'm passionate about solving problems using programming",
     "formations": [
         {
