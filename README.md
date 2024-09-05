@@ -31,12 +31,18 @@
 	    "role": "junior developer",
 	    "company": "GFT Brazil"
 	    "from": "2021",
-	    "to": "2022"
+	    "to": "2023"
 	},
 	{
 	    "role": "developer",
 	    "company": "Santander F1rst Digital Services"
-	    "from": "2022",
+	    "from": "2023",
+	    "to": "2024"
+	},
+	{
+	    "role": "senior developer",
+	    "company": "Santander F1rst Digital Services"
+	    "from": "2024",
 	    "to": "present"
 	}
     ]
