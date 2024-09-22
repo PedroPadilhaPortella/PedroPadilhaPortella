@@ -62,4 +62,12 @@
 <img height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroPadilhaPortella&theme=tokyonight&hide_border=true"/>
 <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPadilhaPortella&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
 
+### ⚡ Technologies Stats</b></summary>
+
+<div id="statistics_contributions_block_id" align="center" style="align-content: center; text-align:center;">
+ <a href="https://profile.codersrank.io/user/leandrocgsi" target="_blank">
+ <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=leandrocgsi&heigth=300" alt="CodersRank skills chart" />
+ </a>
+</div>
+
 </div>
