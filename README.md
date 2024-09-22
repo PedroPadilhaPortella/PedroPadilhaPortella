@@ -59,7 +59,7 @@
 [![Gmail](https://img.shields.io/badge/-pedro.kadjin.sg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.kadjin.sg@gmail.com)](mailto:pedro.kadjin.sg@gmail.com)
 
 <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroPadilhaPortella&theme=tokyonight"/> 
-<img height="230em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroPadilhaPortella&theme=tokyonight&hide_border=true"/>
-<img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPadilhaPortella&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+<img height="204em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroPadilhaPortella&theme=tokyonight&hide_border=true"/>
+<img height="204em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPadilhaPortella&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
 
 </div>
